@@ -1,3 +1,4 @@
 # REDBOY-modern-page
 HTML and CSS
-![image](https://github.com/user-attachments/assets/ead61fd8-2e03-4958-8f4a-c417f0a87c60)
+![photo_2024-11-07_15-56-38](https://github.com/user-attachments/assets/6d225ba8-5fed-44fa-a7cc-405c8b869315)
+
